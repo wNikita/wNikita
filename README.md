@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wNikita
+- 👋 Hi, I’m Nikita
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning JPA
 
