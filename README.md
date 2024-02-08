@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Nikita
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning SpringBoot
+
 
 
 <!---
